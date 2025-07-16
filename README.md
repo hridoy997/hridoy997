@@ -1,104 +1,98 @@
-<h1 align="center">Hi 👋, I'm Arman Hossain Hridoy</h1>
-<h3 align="center">Web Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy997&label=Profile%20views&color=0e75b6&style=flat"
-        alt="armanhossainhridoy" /> </p>
-
-- 🌱 I’m currently learning **Node, Express and mingoDb**
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **ah.hridoy997@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/ArmanHossainHr1" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="ArmanHossainHr1" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/arman-hossain-hridoy-081367204/" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="arman-hossain-hridoy-081367204" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/armanhossain.hridoy.315/" target=" _blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="armanhossain.hridoy.315" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/armanhossainhridoy997/" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="armanhossainhridoy997" height="30" width="40" /></a>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F73E5A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Hossain+Hridoy;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hridoy997&label=Profile+views&color=F73E5A&style=plastic" alt="Profile views" />
+</p>
 
+---
 
+## 🧑‍💻 About Me
 
-### 👨‍💻 Languages and Frameworks
+- 🌱 Currently learning **Node.js, Express, MongoDB**
+- 💬 Ask me about **React**
+- 📫 Reach me: **ah.hridoy997@gmail.com**
 
+---
 
-<img align="left" alt="ReactJs" title="ReactJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="ExpressJS" title="ExpressJS" height="32" width="32" src="https://i.imgur.com/HIF5Fwy.jpg"/>
-<img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Typescript" title="Typescript" height="32" width="32" src="https://img.icons8.com/color/48/000000/typescript.png" />
-<img align="left" alt="NodeJS" title="NodeJS" height="32" width="32" src="https://img.icons8.com/color/48/000000/nodejs.png" />
-<img align="left" alt="MongoDB" title="MongoDB" height="32" width="32" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Firebase" title="Firebase" height="32" width="32" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" height="32" width="32" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img align="left" alt="React-Bootstrap" title="React-Bootstrap" height="32" width="32" src="https://i.imgur.com/Rc554XX.png" />
-<img align="left" alt="Material-UI" title="Material-UI" height="32" width="32" src="https://img.icons8.com/color/48/000000/material-ui.png" />
-<img align="left" alt="Tailwind" title="Tailwind" height="32" width="32" src="https://i.imgur.com/Ds5CeCg.png" />
-<!-- <img align="left" alt="Ant Design" title="Ant Design" height="32" width="32" src="https://i.imgur.com/y42qtQb.png" /> -->
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="https://twitter.com/ArmanHossainHr1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" height="28"></a>
+  <a href="https://www.linkedin.com/in/arman-hossain-hridoy-081367204/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" height="28"></a>
+  <a href="https://www.facebook.com/armanhossain.hridoy.315/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" height="28"></a>
+  <a href="https://www.instagram.com/armanhossainhridoy997/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" height="28"></a>
+</p>
 
+---
 
+## 🛠️ Languages & Frameworks
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" title="ReactJS" height="32"/>
+  <img src="https://i.imgur.com/HIF5Fwy.jpg" alt="ExpressJS" title="ExpressJS" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" title="Typescript" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" title="NodeJS" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" height="32"/>
+  <img src="https://i.imgur.com/Rc554XX.png" alt="React-Bootstrap" title="React-Bootstrap" height="32"/>
+  <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material-UI" title="Material-UI" height="32"/>
+  <img src="https://i.imgur.com/Ds5CeCg.png" alt="Tailwind" title="Tailwind" height="32"/>
+</p>
 
+---
 
+## 📂 Projects
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://heroku.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
-            width="40" height="40" /> </a> </p> -->
-            
+Here are some of my featured projects:
 
-<br />
-<br />
-<br />
-<br />
-<br />
+| Name | Description | Tech Stack | Live Demo |
+|------|-------------|------------|-----------|
+| [Project 1](https://github.com/hridoy997/project1) | Project One Description | React, Node.js | [Live](https://project1-demo.com) |
+| [Project 2](https://github.com/hridoy997/project2) | Project Two Description | Express, MongoDB | [Live](https://project2-demo.com) |
+| [More Projects](https://github.com/hridoy997?tab=repositories) | See all my work | ... | ... |
 
+---
 
+## 📜 Certificates
 
+- [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/hridoy997/responsive-web-design)
+- [Meta Front-End Developer](#)
+- [JavaScript Algorithms & Data Structures](#)
 
+---
 
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy997)](https://github.com/hridoy997/github-readme-stats)
+## 📝 Blog & Articles
 
+- [How to Build REST APIs with Node.js](#)
+- [React Best Practices in 2025](#)
+- [My Journey as a Web Developer](#)
+- [More on my Medium](https://medium.com/@ah.hridoy997)
 
-![Arman Hossain Hridoy GitHub stats](https://github-readme-stats.vercel.app/api?username=hridoy997&show_icons=true&theme=radical)
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy997&" alt="armanhossainhridoy" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hridoy997&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy997&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridoy997&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- Email: **ah.hridoy997@gmail.com**
+- Twitter: [@ArmanHossainHr1](https://twitter.com/ArmanHossainHr1)
+- LinkedIn: [Arman Hossain Hridoy](https://www.linkedin.com/in/arman-hossain-hridoy-081367204/)
+
+---
+
+<p align="center">
+  <em>Thanks for visiting my profile!</em><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36F7B1&center=true&vCenter=true&width=435&lines=Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
