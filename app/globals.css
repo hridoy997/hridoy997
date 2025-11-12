@@ -1,16 +1,23 @@
 @import "tailwindcss";
 
 
+@layer utilities {
+  .shadow-black {
+    box-shadow: 4px 4px 0px #000;
+  }
+
+  .shadow-white {
+    box-shadow: 4px 4px 0px #fff;
+  }
+}
+
 :root {
   --lightHover: #fcf4ff;
   --darkHover: #2aee4a;
   --darkTheme: #11001F;
-}
 
-@theme inline {
-  --color-lightHover: var(--lightHover);
-  --color-darkHover: var(--darkHover);
-  --color-darkTheme: var(--darkTheme);
+  --boxshadow-black: 4px 4px 0px #000;
+  --boxshadow-white: 4px 4px 0px #fff;
 
   --font-outfit: 'Outfit', sans-serif;
   --font-ovo: 'Ovo', serif;
@@ -21,6 +28,15 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+}
+
+@theme inline {
+  --color-lightHover: var(--lightHover);
+  --color-darkHover: var(--darkHover);
+  --color-darkTheme: var(--darkTheme);
+
+  --font-outfit: 'Outfit', sans-serif;
+--font-ovo: 'Ovo', serif;
 }
 
 * {
