@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F73E5A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Hossain+Hridoy;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F73E5A&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Hossain+Hridoy;Web+Developer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hridoy997&label=Profile+views&color=F73E5A&style=plastic" alt="Profile views" />
