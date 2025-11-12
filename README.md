@@ -10,9 +10,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning **Node.js, Express, MongoDB**
-- 💬 Ask me about **React**
+👨‍💻 **Full-Stack Web Developer** passionate about building dynamic and responsive web applications.
+
+- 🔭 Currently working with **React.js, Laravel, and Node.js**
+- 🌱 Learning **TypeScript, Next.js, and advanced MongoDB**
+- 💡 Experienced in **PHP, InertiaJS, and RESTful API development**
+- 🎯 Building full-stack projects with **MERN Stack**
+- 💬 Ask me about **React, Laravel, JavaScript, or Web Development**
 - 📫 Reach me: **ah.hridoy997@gmail.com**
+- ⚡ Fun fact: I love solving coding challenges and contributing to open-source!
 
 ---
 
