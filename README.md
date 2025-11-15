@@ -118,22 +118,6 @@ Check out all my projects on [GitHub Repositories](https://github.com/hridoy997?
 
 ---
 
-## 📜 Certificates
-
-- [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/hridoy997/responsive-web-design)
-- [Meta Front-End Developer](#)
-- [JavaScript Algorithms & Data Structures](#)
-
----
-
-## 📝 Blog & Articles
-
-- [How to Build REST APIs with Node.js](#)
-- [React Best Practices in 2025](#)
-- [My Journey as a Web Developer](#)
-- [More on my Medium](https://medium.com/@ah.hridoy997)
-
----
 
 ## 📊 GitHub Stats
 
